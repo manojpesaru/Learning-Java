@@ -1,0 +1,17 @@
+git init
+git add <filename>
+git commit -m " "
+
+git remote add origin <url>
+git push origin/master main/master
+git pull
+
+
+2nd method:
+git clone <url>
+add or modify files to local repo
+git push
+
+
+
+
